@@ -1,0 +1,9 @@
+*. рус
+*~
+__pycache__
+myvenv
+
+db.postgreasql
+/static
+.DC_Store# created by virtualenv automatically
+../.venv/lib
